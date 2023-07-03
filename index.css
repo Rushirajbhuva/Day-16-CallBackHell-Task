@@ -1,0 +1,9 @@
+#first{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: rgb(246, 115, 1);
+    background-color: rgb(216, 19, 25);
+    height: 100px;
+}
